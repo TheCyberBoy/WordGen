@@ -31,7 +31,7 @@ WordGen tool is a python based script from which you can generate random wordlis
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/Adityasinghadi48/WordGen`
+* `git clone https://github.com/TheCyberBoy/WordGen`
 * `cd $HOME`
 * `ls`
 * `cd lazybee`
