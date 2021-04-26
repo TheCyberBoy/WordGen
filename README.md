@@ -34,9 +34,9 @@ WordGen tool is a python based script from which you can generate random wordlis
 * `git clone https://github.com/TheCyberBoy/WordGen`
 * `cd $HOME`
 * `ls`
-* `cd lazybee`
+* `cd WordGen`
 * `ls`
-* `python2 lazybee.py`
+* `python2 Wordgen.py`
 
 ```
 [+]--ex:- Enter the number of characters: 8
