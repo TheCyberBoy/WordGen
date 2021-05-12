@@ -1,7 +1,7 @@
 # WordGen
 Word list Generator for brute force attack
 
-<a href="https://ibb.co/5KJdDTx"><img src="https://i.ibb.co/8YQJ3M4/wordgen.jpg" alt="wordgen" border="0"></a>
+<img src="https://i.ibb.co/8YQJ3M4/wordgen.jpg" alt="wordgen" border="0">
 
 ## ABOUT TOOL :
 
